@@ -1,0 +1,4 @@
+package Inheritance.MethodOverriding;
+
+public class OverridingMethod {
+}

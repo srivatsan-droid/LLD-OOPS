@@ -1,0 +1,8 @@
+package Interfaces;
+
+public interface defaultInterface {
+    void bake();
+    default void prepare(){
+        System.out.println("Prepare");
+    }
+}
